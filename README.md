@@ -3,10 +3,10 @@
                                         
 17/03/2026
 
-How classical encryption algorithms work
-How modular arithmetic is used in cryptography
-Why small key spaces make ciphers vulnerable
-How brute force attacks work
+How classical encryption algorithms work.
+How modular arithmetic is used in cryptography.
+Why small key spaces make ciphers vulnerable.
+How brute force attacks work.
 How the Caesar Cipher actually works and why it’s called a substitution cipher.
 How to shift letters using Python and wrap around the alphabet with modular math.
 The difference between encrypting and decrypting a message.
@@ -19,21 +19,21 @@ END
 
 11/04/2026
 
-about to finish my python certificate yay
+about to finish my python certificate yay.
 END
 
 06/06/2026
 
-made snake game
-just made a Tetris the game it was very challenging
-learnt how to use math properly in python weither that be in reflection or rotation
-learnt how to import
-and learnt so much more
+made snake game.
+just made Tetris the game it was very challenging.
+learnt how to use math properly in python weither that be in reflection or rotation.
+learnt how to import.
+and learnt so much more.
 END
 
 06/06/2026
 
-will be posting projects in bulk busy with school and clubs 80% of the time
+will be posting projects in bulk busy with school and clubs 80% of the time.
 *****password checker which checks your password and gives it a rating was an interesting project*****
 ****password generator whereby you input a number( the higher the number the more secure) and it will generate a good password which u can later on check in the password checker***
 END
