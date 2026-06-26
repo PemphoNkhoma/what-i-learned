@@ -1,5 +1,6 @@
 # what-i-learrned
-                                              journaling my cyber security journey 
+                                              journaling my coding journey
+                                        
 17/03/2026
 
 How classical encryption algorithms work
@@ -19,3 +20,20 @@ END
 11/04/2026
 
 about to finish my python certificate yay
+END
+
+06/06/2026
+
+made snake game
+just made a Tetris the game it was very challenging
+learnt how to use math properly in python weither that be in reflection or rotation
+learnt how to import
+and learnt so much more
+END
+
+06/06/2026
+
+will be posting projects in bulk busy with school and clubs 80% of the time
+*****password checker which checks your password and gives it a rating was an interesting project*****
+****password generator whereby you input a number( the higher the number the more secure) and it will generate a good password which u can later on check in the password checker***
+END
